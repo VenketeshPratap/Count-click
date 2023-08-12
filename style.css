@@ -1,7 +1,7 @@
 #box {
     height: 250px;
     width: 250px;
-    background-color: red;
+    background-color: rgb(158, 143, 161);
     margin: 100px auto;
     cursor: pointer;
 }
